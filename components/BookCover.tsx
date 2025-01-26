@@ -21,7 +21,7 @@ interface Props {
 }
 
 const BookCover = ({
-  variant = "regular",
+  variant = "medium",
   className,
   coverColor = "#012B48",
   coverImage = "https://placehold.co/400*600.png",
